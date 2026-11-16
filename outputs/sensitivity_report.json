@@ -1,0 +1,158 @@
+{
+  "seed_count": 30,
+  "seeds": [
+    42,
+    2026,
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "baseline_seed": 42,
+  "k_requested": 1000,
+  "k_used": 1000,
+  "process_workers": 4,
+  "nodes_in_largest_component": 3898,
+  "graph_edges_in_largest_component": 5944,
+  "rank_definition": "Descending betweenness, average ranks for ties, calculated separately within each role.",
+  "correlation_reference": "Each sensitivity result is compared to seed 42; pairwise summaries use all seed pairs.",
+  "stable_nodes_by_role": [
+    {
+      "role": "director",
+      "name": "Ridley Scott",
+      "std_rank_within_role": 0.0,
+      "rank_range_within_role": 0.0
+    },
+    {
+      "role": "lead_actor",
+      "name": "50 Cent",
+      "std_rank_within_role": 0.0,
+      "rank_range_within_role": 0.0
+    }
+  ],
+  "most_variable_nodes_by_role": [
+    {
+      "role": "director",
+      "name": "Philippe Mora",
+      "std_rank_within_role": 225.4199943451661,
+      "rank_range_within_role": 479.5
+    },
+    {
+      "role": "lead_actor",
+      "name": "Shameik Moore",
+      "std_rank_within_role": 154.01567318363058,
+      "rank_range_within_role": 334.5
+    }
+  ],
+  "pairwise_correlations": [
+    {
+      "scope": "all",
+      "seed_pairs": 435,
+      "spearman_mean": 0.9801033467158554,
+      "spearman_min": 0.9770359934147342,
+      "spearman_max": 0.9829063452142905,
+      "kendall_mean": 0.904480856257902,
+      "kendall_min": 0.8966394569731452,
+      "kendall_max": 0.9121460037199516
+    },
+    {
+      "scope": "director",
+      "seed_pairs": 435,
+      "spearman_mean": 0.9744056429386442,
+      "spearman_min": 0.9704903150661331,
+      "spearman_max": 0.9784624747143997,
+      "kendall_mean": 0.8908126960709378,
+      "kendall_min": 0.880631205385072,
+      "kendall_max": 0.901188157162339
+    },
+    {
+      "scope": "lead_actor",
+      "seed_pairs": 435,
+      "spearman_mean": 0.9853461612422656,
+      "spearman_min": 0.9817981350108678,
+      "spearman_max": 0.9884808260893081,
+      "kendall_mean": 0.9188509279218899,
+      "kendall_min": 0.9089511198015022,
+      "kendall_max": 0.929502747681473
+    }
+  ],
+  "interpretation_caution": "High rank correlation or a high top-10 frequency is not by itself proof of score stability. Interpret these alongside per-node score standard deviations, rank standard deviations/ranges, and the sampled-source approximation used by NetworkX.",
+  "correlation_vs_baseline_summary": [
+    {
+      "scope": "all",
+      "compared_seeds": 29,
+      "spearman_mean": 0.9809186268326043,
+      "spearman_min": 0.9796783855170013,
+      "spearman_max": 0.9827039310654363,
+      "kendall_mean": 0.9069425581867864,
+      "kendall_min": 0.9034259225584451,
+      "kendall_max": 0.911751467060852
+    },
+    {
+      "scope": "director",
+      "compared_seeds": 29,
+      "spearman_mean": 0.9751040249911391,
+      "spearman_min": 0.9723881390162084,
+      "spearman_max": 0.9778553600925002,
+      "kendall_mean": 0.8928968474306013,
+      "kendall_min": 0.8865168009737183,
+      "kendall_max": 0.9000426193693183
+    },
+    {
+      "scope": "lead_actor",
+      "compared_seeds": 29,
+      "spearman_mean": 0.9861469530334177,
+      "spearman_min": 0.9844699026007548,
+      "spearman_max": 0.9876575056603137,
+      "kendall_mean": 0.9214443199444113,
+      "kendall_min": 0.9167452458187222,
+      "kendall_max": 0.9267290870989496
+    }
+  ],
+  "top10_overlap_vs_baseline": [
+    {
+      "scope": "director",
+      "compared_seeds": 29,
+      "mean_shared_nodes": 9.068965517241379,
+      "min_shared_nodes": 8,
+      "max_shared_nodes": 10,
+      "mean_overlap_fraction": 0.9068965517241377,
+      "min_overlap_fraction": 0.8,
+      "max_overlap_fraction": 1.0
+    },
+    {
+      "scope": "lead_actor",
+      "compared_seeds": 29,
+      "mean_shared_nodes": 7.793103448275862,
+      "min_shared_nodes": 6,
+      "max_shared_nodes": 10,
+      "mean_overlap_fraction": 0.7793103448275861,
+      "min_overlap_fraction": 0.6,
+      "max_overlap_fraction": 1.0
+    }
+  ]
+}

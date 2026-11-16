@@ -1,0 +1,65 @@
+{
+  "kaggle_url": "https://www.kaggle.com/datasets/danielgrijalvas/movies",
+  "kaggle_page_checked_on": "2026-11-16",
+  "kaggle_page_version": 2,
+  "kaggle_page_modified_utc": "2021-07-23T19:48:26.173Z",
+  "kaggle_description_rows": 6820,
+  "kaggle_description_year_range": [
+    1986,
+    2016
+  ],
+  "kaggle_description_columns": [
+    "budget",
+    "company",
+    "country",
+    "director",
+    "genre",
+    "gross",
+    "name",
+    "rating",
+    "released",
+    "runtime",
+    "score",
+    "star",
+    "votes",
+    "writer",
+    "year"
+  ],
+  "local": {
+    "filename": "movies.csv",
+    "rows": 7668,
+    "columns": 15,
+    "column_names": [
+      "name",
+      "rating",
+      "genre",
+      "year",
+      "released",
+      "score",
+      "votes",
+      "director",
+      "writer",
+      "star",
+      "country",
+      "budget",
+      "gross",
+      "company",
+      "runtime"
+    ],
+    "year_min": 1980,
+    "year_max": 2020,
+    "file_size_bytes": 1352598,
+    "filesystem_modified_at": "2026-11-16T10:07:20.276328+08:00",
+    "sha256": "addcc5390a8ebca83ff24f8b8de9341ca21ed8572931fd0a055b7c212d21e142",
+    "revision": null,
+    "historical_download_date": null
+  },
+  "comparison": {
+    "column_names_match": true,
+    "description_row_count_matches": false,
+    "description_year_range_matches": false,
+    "binary_identity_verified": false,
+    "conclusion": "The local file has the same 15 field names as the page description, but its row count and year range differ. Since the version-2 archive could not be retrieved for byte/content comparison, exact correspondence remains inconclusive."
+  },
+  "reconciliation_note": "The public page summary disagrees with the local CSV counts and year range. The public version-2 archive endpoint returned HTTP 404 during this check, so binary identity was not verified."
+}

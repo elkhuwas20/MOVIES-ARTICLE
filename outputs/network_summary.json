@@ -1,0 +1,35 @@
+{
+  "analysis_rows": 7636,
+  "director_nodes": 2946,
+  "lead_actor_nodes": 2797,
+  "total_nodes": 5743,
+  "distinct_edges": 6994,
+  "edge_weight_sum": 7636,
+  "edges_weight_gt_1": 449,
+  "connected_components": 796,
+  "largest_component_nodes": 3898,
+  "largest_component_edges": 5944,
+  "largest_component_node_share": 0.6787393348424169,
+  "bipartite_density": 0.0008487903220912912,
+  "betweenness": {
+    "component": "largest_connected_component",
+    "normalized": true,
+    "k_requested": 1000,
+    "k_used": 1000,
+    "seed": 42,
+    "edge_weight_used_as_distance": false,
+    "software_networkx": "3.7"
+  },
+  "node_class_degree": {
+    "director": {
+      "median": 1.0,
+      "mean": 2.3740665308893414,
+      "degree_one_count": 1618
+    },
+    "lead_actor": {
+      "median": 1.0,
+      "mean": 2.500536288880944,
+      "degree_one_count": 1794
+    }
+  }
+}

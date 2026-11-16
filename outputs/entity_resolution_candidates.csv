@@ -1,0 +1,8 @@
+﻿role,name_a,name_b,similarity,candidate_type,normalized_a,normalized_b,action
+director,Deon Taylor,Don Taylor,0.9524,near_spelling_screen,deon taylor,don taylor,manual_review_only
+director,Michael Dinner,Michael Winner,0.9286,near_spelling_screen,michael dinner,michael winner,manual_review_only
+director,Michael Tolkin,Michael Tollin,0.9286,near_spelling_screen,michael tolkin,michael tollin,manual_review_only
+director,Robert M. Young,Robert Young,0.9231,near_spelling_screen,robert m young,robert young,manual_review_only
+director,Stephan Elliott,Stephen Elliott,0.9333,near_spelling_screen,stephan elliott,stephen elliott,manual_review_only
+director,Tom Moore,Tomm Moore,0.9474,near_spelling_screen,tom moore,tomm moore,manual_review_only
+lead_actor,Michael B. Jordan,Michael Jordan,0.9333,near_spelling_screen,michael b jordan,michael jordan,manual_review_only

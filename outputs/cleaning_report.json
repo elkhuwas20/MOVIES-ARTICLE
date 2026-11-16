@@ -1,0 +1,29 @@
+{
+  "rows_before": 7668,
+  "rows_after_documented_filters": 7636,
+  "rows_excluded": 32,
+  "rows_missing_star": 1,
+  "rows_generic_director_label": 31,
+  "exact_duplicate_rows": 0,
+  "normalized_title_year_candidate_rows": 0,
+  "entity_resolution_candidate_pairs": 7,
+  "missing_values_by_column": {
+    "name": 0,
+    "rating": 77,
+    "genre": 0,
+    "year": 0,
+    "released": 2,
+    "score": 3,
+    "votes": 3,
+    "director": 0,
+    "writer": 3,
+    "star": 1,
+    "country": 3,
+    "budget": 2171,
+    "gross": 189,
+    "company": 17,
+    "runtime": 4
+  },
+  "entity_resolution_limits": "The dataset has no stable person identifiers or external authority file. String similarity can suggest manual-review candidates but cannot establish aliases or distinguish homonyms.",
+  "changes": "Only leading/trailing whitespace was trimmed from director and star fields. The 1 row with missing star and 31 rows with generic director labels are excluded from network input to reproduce the manuscript. No duplicate or entity candidate was deleted or merged."
+}

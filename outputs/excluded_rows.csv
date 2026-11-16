@@ -1,0 +1,33 @@
+﻿_source_row,name,rating,genre,year,released,score,votes,director,writer,star,country,budget,gross,company,runtime,exclusion_reason
+119,The Fox and the Hound,G,Animation,1981,"July 10, 1981 (United States)",7.3,87000.0,Directors,Daniel P. Mannix,Mickey Rooney,United States,12000000.0,63456988.0,Walt Disney Animation Studios,83.0,generic_director_label
+319,Bugs Bunny's 3rd Movie: 1001 Rabbit Tales,G,Animation,1982,"November 19, 1982 (United States)",7.1,1800.0,Directors,John W. Dunn,Mel Blanc,United States,,78350.0,Warner Bros. Animation,74.0,generic_director_label
+357,Twilight Zone: The Movie,PG,Horror,1983,"June 24, 1983 (United States)",6.5,34000.0,Directors,John Landis,Dan Aykroyd,United States,10000000.0,29450919.0,Amblin Entertainment,101.0,generic_director_label
+476,The Business of Show Business,,History,1983,"February 15, 1983 (Canada)",8.3,79.0,Tom Logan,Tom Logan,,Canada,323562.0,,CTV,55.0,missing_star
+775,Godzilla 1985,PG,Action,1985,"August 23, 1985 (United States)",6.2,6100.0,Directors,Reuben Bercovitch,Raymond Burr,Japan,2000000.0,4116395.0,Toho Company,87.0,generic_director_label
+785,He-Man and She-Ra: The Secret of the Sword,G,Animation,1985,"March 22, 1985 (United States)",7.3,2600.0,Directors,Larry DiTillio,John Erwin,United States,2000000.0,7660857.0,Filmation Associates,100.0,generic_director_label
+904,The Great Mouse Detective,G,Animation,1986,"July 2, 1986 (United States)",7.2,46000.0,Directors,Peter Young,Vincent Price,United States,14000000.0,38625550.0,Walt Disney Pictures,74.0,generic_director_label
+996,Let's Get Harry,R,Action,1986,"October 31, 1986 (United States)",5.2,1200.0,Director,Mark Feldberg,Michael Schoeffling,United States,,140980.0,Delphi V Productions,102.0,generic_director_label
+1013,My Little Pony: The Movie,G,Animation,1986,"June 6, 1986 (United States)",6.0,2500.0,Directors,George Arthur Bloom,Danny DeVito,United States,,5958456.0,Sunbow Productions,86.0,generic_director_label
+1105,Amazon Women on the Moon,R,Comedy,1987,"September 18, 1987 (United States)",6.2,10000.0,Directors,Michael Barrie,Rosanna Arquette,United States,,548696.0,Universal Pictures,85.0,generic_director_label
+1111,Aria,R,Comedy,1987,"September 15, 1987 (United States)",5.8,2600.0,Directors,Robert Altman,John Hurt,United Kingdom,,1028679.0,Lightyear Entertainment,90.0,generic_director_label
+1824,The Shrimp on the Barbie,PG-13,Comedy,1990,"August 31, 1990 (United States)",5.7,1200.0,Director,Grant Morris,Cheech Marin,Australia,,,Unity Pictures,90.0,generic_director_label
+2343,Batman: Mask of the Phantasm,PG,Animation,1993,"December 25, 1993 (United States)",7.8,45000.0,Directors,Alan Burnett,Kevin Conroy,United States,6000000.0,5635204.0,Warner Bros. Animation,76.0,generic_director_label
+2359,We're Back! A Dinosaur's Story,G,Animation,1993,"November 24, 1993 (United States)",6.1,14000.0,Directors,John Patrick Shanley,John Goodman,United States,,9317021.0,Universal Pictures,72.0,generic_director_label
+2675,Four Rooms,R,Comedy,1995,"December 25, 1995 (United States)",6.8,100000.0,Directors,Allison Anders,Tim Roth,United States,4000000.0,4257354.0,Miramax,98.0,generic_director_label
+2915,Beavis and Butt-Head Do America,PG-13,Animation,1996,"December 20, 1996 (United States)",6.8,53000.0,Directors,Mike Judge,Mike Judge,United States,12000000.0,63118386.0,Paramount Pictures,81.0,generic_director_label
+2957,Hellraiser: Bloodline,R,Horror,1996,"March 8, 1996 (United States)",5.1,20000.0,Director,Peter Atkins,Bruce Ramsay,United States,4000000.0,9336886.0,Dimension Films,85.0,generic_director_label
+3572,Fantasia 2000,G,Animation,1999,"June 16, 2000 (United States)",7.2,36000.0,Directors,Eric Goldberg,James Levine,United States,80000000.0,90874570.0,Walt Disney Pictures,75.0,generic_director_label
+3836,Digimon: The Movie,PG,Animation,2000,"October 6, 2000 (United States)",6.1,7000.0,Directors,Akiyoshi Hongo,Lara Jill Miller,United States,5000000.0,16643191.0,Saban Entertainment,82.0,generic_director_label
+3960,Cowboy Bebop: The Movie,,Animation,2001,"May 16, 2003 (United States)",7.9,44000.0,Directors,Keiko Nobumoto,Beau Billingslea,Japan,,3007903.0,Bandai Visual Company,115.0,generic_director_label
+4966,"Paris, je t'aime",R,Comedy,2006,"June 15, 2007 (United States)",7.2,71000.0,Directors,Tristan Carné,Juliette Binoche,France,13000000.0,17471727.0,Victoires International,120.0,generic_director_label
+5073,Grindhouse,R,Action,2007,"April 6, 2007 (United States)",7.5,180000.0,Directors,Robert Rodriguez,Kurt Russell,United States,67000000.0,25422088.0,Dimension Films,191.0,generic_director_label
+5411,"New York, I Love You",R,Comedy,2008,"October 16, 2009 (United States)",6.2,45000.0,Directors,Hu Hong,Shia LaBeouf,United States,14700000.0,14603177.0,Vivendi Entertainment,103.0,generic_director_label
+6146,V/H/S,R,Horror,2012,"September 6, 2012 (Russia)",5.8,58000.0,Directors,Brad Miska,Calvin Reeder,United States,,1944287.0,8383 Productions,116.0,generic_director_label
+6223,The ABCs of Death,Not Rated,Comedy,2012,"April 26, 2013 (United Kingdom)",4.7,18000.0,Directors,Ant Timpson,Ingrid Bolsø Berdal,United States,,23589.0,Magnet Releasing,129.0,generic_director_label
+6278,Movie 43,R,Comedy,2013,"January 25, 2013 (United States)",4.3,101000.0,Directors,Rocky Russo,Emma Stone,United States,6000000.0,32443111.0,Relativity Media,94.0,generic_director_label
+6429,V/H/S/2,R,Horror,2013,"June 6, 2013 (United States)",6.0,37000.0,Directors,Simon Barrett,Lawrence Michael Levine,United States,,805574.0,The Collective Studios,96.0,generic_director_label
+6819,Southbound,R,Horror,2015,"February 9, 2016 (United States)",5.9,17000.0,Directors,Matt Bettinelli-Olpin,Chad Villella,United States,,35275.0,Soapbox Films,89.0,generic_director_label
+6856,Moana,PG,Animation,2016,"November 23, 2016 (United States)",7.6,289000.0,Directors,Jared Bush,Auli'i Cravalho,United States,150000000.0,644411850.0,Hurwitz Creative,107.0,generic_director_label
+7003,Leap!,PG,Animation,2016,"August 25, 2017 (United States)",6.8,21000.0,Directors,Eric Summer,Elle Fanning,France,30000000.0,106127278.0,Quad Productions,89.0,generic_director_label
+7636,"My People, My Country",,Drama,2019,"October 1, 2019 (United States)",6.5,1500.0,Directors,Hu Guan,Bo Huang,China,,450064993.0,Alibaba Pictures,154.0,generic_director_label
+7664,The Robinsons,,Action,2020,"November 10, 2020 (United States)",,,Directors,Aleks Alifirenko Jr.,Billy Hartmann,United States,10000.0,,,90.0,generic_director_label

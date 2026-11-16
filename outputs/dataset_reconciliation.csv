@@ -1,0 +1,10 @@
+﻿item,dataset_lokal,metadata_kaggle,penilaian
+Nama file lokal,movies.csv,movies.csv pada salinan lokal,Diperiksa
+Revisi lokal,Tidak tercatat,Kaggle versi 2,Identitas revisi lokal tidak diketahui
+Tanggal pemeriksaan halaman,2026-11-16,Tanggal pemeriksaan halaman Kaggle saat audit,Bukan tanggal unduh historis
+Tanggal modifikasi halaman,2021-07-23T19:48:26.173Z,Metadata halaman Kaggle,Tersedia
+Baris data,7668,6820,Berbeda dari deskripsi halaman
+Kolom,15,15,Jumlah sesuai
+Nama kolom,name; rating; genre; year; released; score; votes; director; writer; star; country; budget; gross; company; runtime,budget; company; country; director; genre; gross; name; rating; released; runtime; score; star; votes; writer; year,Sama (urutan diabaikan)
+Rentang tahun,1980–2020,1986–2016,Berbeda dari deskripsi halaman
+Identitas file biner,addcc5390a8ebca83ff24f8b8de9341ca21ed8572931fd0a055b7c212d21e142,Tidak tersedia untuk pembandingan arsip,Belum terverifikasi

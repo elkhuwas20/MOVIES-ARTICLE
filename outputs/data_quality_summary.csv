@@ -1,0 +1,24 @@
+﻿metric,value,notes
+source_rows_before,7668,Raw rows; header excluded.
+source_columns,15,Excludes internal _source_row field.
+exact_duplicate_rows,0,Full-row comparison; not automatically removed.
+normalized_title_year_candidate_rows,0,Normalization is used only to flag candidates.
+entity_resolution_candidate_pairs,7,Exact-normalized variants and high-similarity spellings; manual review only.
+rows_missing_star,1,"Excluded from the network input, consistent with the manuscript."
+rows_with_generic_director_label,31,"Excluded from the network input, consistent with the manuscript."
+rows_after_documented_filters,7636,"No title-year candidates, aliases, or homonyms are merged or deleted."
+missing:name,0,Blank or whitespace-only cell count before cleaning.
+missing:rating,77,Blank or whitespace-only cell count before cleaning.
+missing:genre,0,Blank or whitespace-only cell count before cleaning.
+missing:year,0,Blank or whitespace-only cell count before cleaning.
+missing:released,2,Blank or whitespace-only cell count before cleaning.
+missing:score,3,Blank or whitespace-only cell count before cleaning.
+missing:votes,3,Blank or whitespace-only cell count before cleaning.
+missing:director,0,Blank or whitespace-only cell count before cleaning.
+missing:writer,3,Blank or whitespace-only cell count before cleaning.
+missing:star,1,Blank or whitespace-only cell count before cleaning.
+missing:country,3,Blank or whitespace-only cell count before cleaning.
+missing:budget,2171,Blank or whitespace-only cell count before cleaning.
+missing:gross,189,Blank or whitespace-only cell count before cleaning.
+missing:company,17,Blank or whitespace-only cell count before cleaning.
+missing:runtime,4,Blank or whitespace-only cell count before cleaning.
