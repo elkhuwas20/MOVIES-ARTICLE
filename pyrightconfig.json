@@ -1,0 +1,16 @@
+{
+  "include": [
+    "src",
+    "scripts",
+    "tests"
+  ],
+  "exclude": [
+    ".venv",
+    "outputs"
+  ],
+  "extraPaths": [
+    "src"
+  ],
+  "pythonVersion": "3.13",
+  "typeCheckingMode": "basic"
+}
